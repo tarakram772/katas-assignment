@@ -1,1 +1,3 @@
-katas assignment
+
+C
+new Katas assignmennet
